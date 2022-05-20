@@ -57,4 +57,8 @@
 #### Final Exam
 
 - Version A
+<<<<<<< HEAD
 - Version B
+=======
+- Version B
+>>>>>>> 366b5ac64d2722a3031c37bc15ce44bea716db9b

@@ -46,19 +46,15 @@
 
 #### Exam 1
 
-- Version A
-- Version B
+- [Version A](https://github.com/xl69/STAT433/blob/main/Exams/Exam1Aans.pdf)
+- [Version B](https://github.com/xl69/STAT433/blob/main/Exams/Exam1Bans.pdf)
 
 #### Exam 2
 
-- Version A
-- Version B
+- [Version A](https://github.com/xl69/STAT433/blob/main/Exams/Exam2Aans.pdf)
+- [Version B](https://github.com/xl69/STAT433/blob/main/Exams/Exam2BAns.pdf)
 
 #### Final Exam
 
-- Version A
-<<<<<<< HEAD
-- Version B
-=======
-- Version B
->>>>>>> 366b5ac64d2722a3031c37bc15ce44bea716db9b
+- [Version A](https://github.com/xl69/STAT433/blob/main/Exams/FinalAans.pdf)
+- [Version B](https://github.com/xl69/STAT433/blob/main/Exams/FinalBans.pdf)
